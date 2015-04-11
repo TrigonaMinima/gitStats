@@ -11,6 +11,4 @@ By running
 
 Then in the R interpreter type,
 
-```source("plot.R")```
-
-The required plot will be opened in a new window.
+``` source("plot.R") ``` The required plot will be opened in a new window.
