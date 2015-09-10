@@ -2,7 +2,7 @@
 from github import Github as git
 import csv
 
-g = git("Username", "Password")
+g = git("username", "password")
 
 lang_code = {}
 
